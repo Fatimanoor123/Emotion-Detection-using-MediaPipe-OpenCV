@@ -106,7 +106,7 @@ output_path = "/content/drive/MyDrive/AI ML Projects/Emotion-Detection/output/vi
 
 **Fatima Noor**  
 AI/ML Developer | Python Enthusiast  
-📧 [GitHub Profile Link Here]  
+📧 [[GitHub Profile Link Here]](https://github.com/Fatimanoor123)  
 📍 Based in Pakistan  
 
 ---
